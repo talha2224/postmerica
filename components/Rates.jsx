@@ -20,7 +20,7 @@ const Rates = () => {
           <Image src={"/asessts/secure.png"} width={50} height={50} />
         </div>
         <h1 className='text-[2.5rem] text-center font-semibold mt-7 text-transparent bg-clip-text bg-gradient-to-b from-[#231645] to-[#4507CC]'>Around the clock support</h1>
-        <p className='text-[#21066f] mt-5 text-center'>Whether it's addressing technical issues or clarifying shipping- <br />related queries, our expert staff is always ready to assist you.</p>
+        <p className='text-[#21066f] mt-5 text-center'>Whether it is addressing technical issues or clarifying shipping- <br />related queries, our expert staff is always ready to assist you.</p>
         <div className='flex justify-center items-center mt-[1.5rem]'>
           <img src={"/asessts/clock.png"} className='mr-[-7rem] z-50 h-[10rem] md:h-[15rem]' />
           <img src={"/asessts/chats.png"} className='h-[15rem] md:h-[20rem]' />
